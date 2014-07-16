@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<data>
+	<test name="test1">
+		<username>username1</username>
+		<password>password1</password>
+	</test>
+	<test name="test2">
+		<username>username2</username>
+		<password>password2</password>
+	</test>
+	<test name="test3">
+		<username>username3</username>
+		<password>password3</password>
+		<emplastname>john</emplastname>
+	</test>
+	<test name="test3">
+		<username>username3.1</username>
+		<password>password3.1</password>
+		<emplastname>john3.1</emplastname>
+		<empfirsnatme>rajenderan</empfirsnatme>
+	</test>
+	<test name="test3">
+		<username>username3.1</username>
+		<password>password3.1</password>
+		<empfirsname>rajenderan</empfirsname>
+		<emplastname>john3.1</emplastname>
+	</test>
+	
+	<test name="test3">
+		<username>username3.1</username>
+		<password>password3.1</password>
+	</test>
+	
+	<test name="test3">
+		<username>username3.1</username>
+		<password>password3.1</password>
+		<empid>00777</empid>
+		<empSpouseName>JohnCena</empSpouseName>
+		<empHeight>5</empHeight>
+	</test>
+
+	<test name="test4">
+		<username>username4.1</username>
+		<password>password4.1</password>
+	</test>	
+</data>

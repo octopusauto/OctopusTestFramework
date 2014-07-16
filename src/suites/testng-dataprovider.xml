@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Security" verbose="1" >
+    <parameter name="component" value="DataproviderTest" />
+    <parameter name="testtype" value="DataproviderTest" />
+   
+    
+    <test name="SchemagenDatatproviderTest">
+        <classes>
+            <class name="framework.util.DataProviderTest"/>
+        </classes>
+    </test>
+</suite>
